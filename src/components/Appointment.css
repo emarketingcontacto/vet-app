@@ -1,0 +1,16 @@
+.appointment{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-position: center;
+	background-size: cover;
+}
+
+.form-container{
+	display: grid;
+	width: auto;
+	height: auto;
+	background-color: #e9ecef;
+	padding: 3vw;
+	margin: 5vw;
+}

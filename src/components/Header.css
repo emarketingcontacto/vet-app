@@ -1,0 +1,50 @@
+.header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 10px;
+   }
+.logo{
+	margin-left: 5vw;
+}
+   .header-images{
+	width: 35vw;
+	display: flex;
+	gap: 15px;
+   }
+
+.location{
+	display: flex;
+	width: 15wv;
+	height: 10vh;
+	align-items: center;
+	justify-content: center;
+}
+
+.location p{
+	line-height: .5vh;
+}
+
+
+.location-simbol{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color:#a7a7a7;
+}
+
+.location-simbol span{
+font-size: 2.5vw;
+}
+
+.location-field{
+	font-size: .8rem;
+	font-weight: 500;
+	margin-bottom: -1px;
+	color:#a7a7a7; 
+}
+
+.location-value{
+	font-size: .7rem;
+	color:#999;
+}

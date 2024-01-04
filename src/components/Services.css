@@ -1,0 +1,26 @@
+.services{
+	width: 100wv;
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
+	justify-content: center;
+	align-items: center;
+	width: 60vw;
+	margin: 5vh;
+}
+
+.service{
+	width: 15vw;
+}
+
+.card{
+	width: 18rem ;
+}
