@@ -12,7 +12,7 @@ import Vacunas from '../assets/vacunas.jpg';
 
 const Services = () => {
   return (
-	  <div className="services" style={{backgroundImage:`url(${ServicesBackground})`}}>
+	  <div id='servicios' className="services" style={{backgroundImage:`url(${ServicesBackground})`}}>
 		
 		<div className="cards">
 		  
@@ -20,7 +20,7 @@ const Services = () => {
 				<img src={Cirugias} class="card-img-top" alt="..."/>
 					<div class="card-body">
 						<h5 class="card-title text-center">Cirugias</h5>
-						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						<p class="card-text">Realizamos cualquier tipo de Cirugías Programadas y  de Emergencias</p>
 					</div>
 			</div>
 
@@ -28,7 +28,7 @@ const Services = () => {
 				<img src={Diagnosticos} class="card-img-top" alt="..."/>
 					<div class="card-body">
 						<h5 class="card-title text-center">Diagnosticos</h5>
-						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						<p class="card-text">Personal altamente calificado para Diagnosticar cualqiuer tipo de enfermedad</p>
 					</div>
 			</div>
 
@@ -37,7 +37,7 @@ const Services = () => {
 				<img src={Rayosx} class="card-img-top" alt="..."/>
 					<div class="card-body">
 						<h5 class="card-title text-center">Rayos-X</h5>
-						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					  <p class="card-text">Contamos con servicio de Rayos X en nuestra clinica</p>
 					</div>
 			</div>
 			
@@ -45,7 +45,7 @@ const Services = () => {
 				<img src={Tratamientos} class="card-img-top" alt="..."/>
 					<div class="card-body">
 						<h5 class="card-title text-center">Tratamientos</h5>
-						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						<p class="card-text">Llevamos el Tratamiento de curación hasta la completa curación de sus mascotas</p>
 					</div>
 			</div>
 			
@@ -54,7 +54,7 @@ const Services = () => {
 				<img src={Vacunas} class="card-img-top" alt="..."/>
 					<div class="card-body">
 						<h5 class="card-title text-center">Vacunas</h5>
-						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						<p class="card-text">Contamos con paquetes de Vacunación completa y Cartillas de Vacunación</p>
 					</div>
 			</div>
 		</div>

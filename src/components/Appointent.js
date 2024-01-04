@@ -4,7 +4,7 @@ import BackgroundAnimal from "../assets/backgroundAnimal.jpg";
 
 const Appointent = () => {
   return (
-	  <div className="appointment" style={{ backgroundImage: `url(${BackgroundAnimal})` }}>
+	  <div id='citas' className="appointment" style={{ backgroundImage: `url(${BackgroundAnimal})` }}>
 		  
 		  <div className="form-container container">
 				

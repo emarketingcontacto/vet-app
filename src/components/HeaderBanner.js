@@ -1,6 +1,5 @@
 import React from 'react'; 
 import Background from '../assets/background.jpg'; 
-import HeaderImage from '../assets/headerImage.png'; 
 import "./HeaderBanner.css";
 
 

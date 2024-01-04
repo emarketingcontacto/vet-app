@@ -21,7 +21,7 @@ const footer = () => {
 				<a href="tel:+">
 					<span class="material-symbols-outlined">on_device_training</span>
 				</a>
-				<a href="http://facebook.com" className='facebook'>
+				<a href="http://facebook.com" className='facebook' alt="facebook">
 					<img src={Facebook} width={20} />
 				</a>
 			  </div>
