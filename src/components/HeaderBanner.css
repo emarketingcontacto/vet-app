@@ -2,8 +2,7 @@
 	display: flex;
 	width: 100%;
 	align-items: center;
-	justify-content: end;
+	justify-content: flex-end;
 	background-position: center;
 	background-size: cover;
-
 }
