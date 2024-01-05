@@ -15,7 +15,8 @@ function Header() {
 				  </div>
 				  <div className="location-text">
 				  	<p className='location-field'></p>
-				  	<p className='location-value'> Calle Torre Silao, Las Torres </p>	  
+					  <p className='location-value'> Calle Torre Silao </p>	
+					  <p className='location-value'> Las Torres </p>  
 				  </div>
 			  </div>
 			  <div className="location">

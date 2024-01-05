@@ -1,3 +1,18 @@
+@media (max-width: 992px) {
+	/* … */
+	.header-images{
+		justify-content: flex-start !important;
+	}
+  .location p{
+	line-height: 2.5vw !important;
+	}
+
+	.location-simbol span {
+		font-size: 4.5vw !important;
+	}
+
+}
+
 .header{
 	display: flex;
 	align-items: center;
@@ -8,14 +23,15 @@
 	margin-left: 5vw;
 }
    .header-images{
-	width: 35vw;
+	width: 65vw;
 	display: flex;
 	gap: 15px;
+	justify-content: flex-end;
    }
 
 .location{
 	display: flex;
-	width: 15wv;
+	width: 15vw;
 	height: 10vh;
 	align-items: center;
 	justify-content: center;
