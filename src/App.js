@@ -15,8 +15,8 @@ function App() {
       <Header></Header>
       <Navbar></Navbar>
       <HeaderBanner />
-      <Appointent/>
       <Services />
+      <Appointent/>
       <Map />
       <Footer/>
       
