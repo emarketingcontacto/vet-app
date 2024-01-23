@@ -36,7 +36,7 @@ function Header() {
 				  </div>
 				  <div className="location-text">
 				  	<p className='location-field'></p>
-				  	<p className='location-value'> (477)1598183</p>	  
+				  	<p className='location-value'> (477)2590628</p>	  
 				  </div>
 			  </div>
 
