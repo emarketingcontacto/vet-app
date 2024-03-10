@@ -5,5 +5,16 @@
 	justify-content: flex-end;
 	background-position: center;
 	background-size: cover;
-	color:#04568a;
+	/*color:#04568a;*/ 
+	color:#ffffff; 
+}
+
+.headerText{
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	width: 100vw;
+	background-color: rgba(0,0,0,.5);
+	height: 25vh;
+	padding-left: 3vw;
 }

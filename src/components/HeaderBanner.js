@@ -6,7 +6,7 @@ import "./HeaderBanner.css";
 const HeaderBanner = () => {
   return (
 	  <div className='header-banner' style={{ backgroundImage: `url(${Background})` }}>
-		  <div className="d-flex justify-content-start align-items-center w-100">
+		  <div className="headerText">
 			  <h1>Centro de Atención Veterinaria Las Torres</h1>
 		  </div>
 	  </div>
